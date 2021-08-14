@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-
+#Special thanks to Q-Squared Technologies, Ltd. https://q-squared.jp/
 
 import io
 import os
